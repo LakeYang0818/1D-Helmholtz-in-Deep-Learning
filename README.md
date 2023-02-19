@@ -20,11 +20,11 @@ $FDM$:
 
 Finite Differenc Method with N = 50, k = 32:
 
-![FDM_N = 50_k = 32](https://user-images.githubusercontent.com/91699109/219965701-59a4a10f-9ed9-4eeb-abd4-7b22380c95c0.png | width=100)
+![FDM_N = 50_k = 32](https://user-images.githubusercontent.com/91699109/219965701-59a4a10f-9ed9-4eeb-abd4-7b22380c95c0.png =250x250)
 
 Time Elapsed for k = 32:
 
-![Time Elapsed k = 32](https://user-images.githubusercontent.com/91699109/219965710-3240c091-1f53-447f-ab4c-38a93776d7e2.png | width=100)
+![Time Elapsed k = 32](https://user-images.githubusercontent.com/91699109/219965710-3240c091-1f53-447f-ab4c-38a93776d7e2.png =250x250)
 
 Errors of FEM with k = 32:
 
