@@ -20,7 +20,7 @@ $FDM$:
 
 Finite Differenc Method with N = 50, k = 32:
 
-![FDM_N = 50_k = 32](https://user-images.githubusercontent.com/91699109/219965701-59a4a10f-9ed9-4eeb-abd4-7b22380c95c0.png){:height="100px" width="100px"}
+![FDM_N = 50_k = 32](https://user-images.githubusercontent.com/91699109/219965701-59a4a10f-9ed9-4eeb-abd4-7b22380c95c0.png){width=250}
 
 Time Elapsed for k = 32:
 
