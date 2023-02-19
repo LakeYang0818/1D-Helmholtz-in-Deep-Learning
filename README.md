@@ -15,6 +15,7 @@ The explanatory text for each method is included in the project report.
 Example Plots:
 (Denote the number of segmentation by N and the value wave numbers in the Helmholtz equation by k.)
 
+
 $FDM$:
 
 Finite Differenc Method with N = 50, k = 32:
@@ -29,7 +30,9 @@ Errors of FEM with k = 32:
 
 ![FDM_k = 32](https://user-images.githubusercontent.com/91699109/219965722-1124c25a-1bc8-4cc6-b880-dfe3446e213b.png)
 
-*FEM*:
+
+
+$FEM$:
 
 Finite Element Method with N = 50, k = 32:
 
@@ -43,7 +46,9 @@ Errors of FEM with k = 32:
 
 ![Errors of k = 32](https://user-images.githubusercontent.com/91699109/219965671-c9541dd0-3d5d-4bcc-b408-26ea9918d829.png)
 
-PINN:
+
+
+$PINN$:
 
 Deep Learning Method with k = 16, test_functions = chebyshev polynomial:
 
