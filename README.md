@@ -10,3 +10,12 @@ The methods for solving the one-dimensional Helmholtz equation involved in this 
 4. PINN (Deep learning method).
 
 The explanatory text for each method is included in the project report.
+
+
+Example Plots:
+
+FDM
+![FEM_N = 50_k = 32](FEM_N = 50_k = 32.png)
+FEM
+
+VPINN
