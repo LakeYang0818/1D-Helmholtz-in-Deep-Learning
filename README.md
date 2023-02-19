@@ -29,7 +29,7 @@ Errors of FEM with k = 32:
 
 ![FDM_k = 32](https://user-images.githubusercontent.com/91699109/219965722-1124c25a-1bc8-4cc6-b880-dfe3446e213b.png)
 
-FEM:
+*FEM*:
 
 Finite Element Method with N = 50, k = 32:
 
