@@ -69,6 +69,6 @@ Errors of FEM with k = 16:
 
 ## Performance Anaysis
 
-### 1. Errors Comparison
+1. Errors Comparison
 
-### 2. Time Consumption
+2. Time Consumption
