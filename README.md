@@ -2,15 +2,15 @@
 
 This project focuses on the numericla solutions of the one-dimensional Helmholtz equation:
 
-### 1. Analytical Method
+1. Analytical Method
 
-### 2. FDM
+2. FDM
   Finite Difference Method with central difference.
   
-### 3. FEM
+3. FEM
   Finite Element Method with linear elements.
   
-### 4. PINN
+4. PINN
   Deep learning method: PINN (Physical-Informed-Neurl-Network) 
 
 
