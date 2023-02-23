@@ -1,22 +1,28 @@
-# 1D-Helmholtz-in-Deep-Learning
-This project focuses on numerically solving the 1D Helmholtz equation by implementing the deep learning neural network method (a neural network in physics).
+# Numerical Solutions of 1D Helmholtz Equation (FDM, FEM, Deep Learning)
 
+This project focuses on the numericla solutions of the one-dimensional Helmholtz equation:
+
+### 1. Analytical Method
+
+### 2. FDM
+  Finite Difference Method with central difference.
+  
+### 3. FEM
+  Finite Element Method with linear elements.
+  
+### 4. PINN
+  Deep learning method: PINN (Physical-Informed-Neurl-Network) 
+
+
+Notes: 
 The code is written in Python and for the deep learning part Pytorch is used.
-
-The methods for solving the one-dimensional Helmholtz equation involved in this project.
-1. Analytical Method (Analytical)
-2. FDM (Finite Difference Method)
-3. FEM (Finite Element Method)
-4. PINN (Deep learning method).
-
-The explanatory text for each method is included in the project report.
+Descriptions of each method are included in the project report "The Finite-Element-based Solution of the Helmholtz Equation.pdf".
 
 
-Example Plots:
-(Denote the number of segmentation by N and the value wave numbers in the Helmholtz equation by k.)
+## Example Plots:
+(Denote the number of segmentation by N and the value of wave numbers in the Helmholtz equation by k.)
 
-
-$FDM$:
+### $FDM$:
 
 Finite Differenc Method with N = 50, k = 32:
 
@@ -31,7 +37,7 @@ Errors of FEM with k = 32:
 <img src="https://user-images.githubusercontent.com/91699109/219965722-1124c25a-1bc8-4cc6-b880-dfe3446e213b.png" width="300" />
 
 
-$FEM$:
+### $FEM$:
 
 Finite Element Method with N = 50, k = 32:
 
@@ -46,7 +52,7 @@ Errors of FEM with k = 32:
 <img src="https://user-images.githubusercontent.com/91699109/219965671-c9541dd0-3d5d-4bcc-b408-26ea9918d829.png" width="300" />
 
 
-$PINN$:
+### $PINN$:
 
 Deep Learning Method with k = 16, test_functions = chebyshev polynomial:
 
@@ -59,3 +65,10 @@ Time Elapsed for k = 16:
 Errors of FEM with k = 16:
 
 <img src="https://user-images.githubusercontent.com/91699109/219965781-90147efb-adb8-4dd9-abd2-3e9cc9c7a672.png" width="300" />
+
+
+## Performance Anaysis
+
+### 1. Errors Comparison
+
+### 2. Time Consumption
