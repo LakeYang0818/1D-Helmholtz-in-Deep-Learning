@@ -1,6 +1,6 @@
 # Numerical Solutions of 1D Helmholtz Equation (FDM, FEM, Deep Learning)
 
-This project focuses on the numericla solutions of the one-dimensional Helmholtz equation:
+This project aims at finding the numericla solutions of the one-dimensional Helmholtz equation:
 
 1. Analytical Method
 
